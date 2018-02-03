@@ -9,7 +9,7 @@
             "name": "Andrecode soft",
             "email": "solwoster@gmail.com",
             "homepage": "http://look-n-shop.com"
-        },
+        }
     ],
     "require": {
         "yiisoft/yii2": "*",
